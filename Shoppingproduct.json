@@ -1,0 +1,20 @@
+{
+  "dialogState": "Fulfilled",
+  "intentName": "MilkDepartment",
+  "message": "Your order has been placed and Thanks for your order!",
+  "messageFormat": "PlainText",
+  "responseAttributes": null,
+  "responseCard": null,
+  "sentimentResponse": {
+    "sentimentLabel": "NEUTRAL",
+    "sentimentScore": "{Positive: 0.048468594,Negative: 0.04002319,Neutral: 0.91150475,Mixed: 3.5036007E-6}"
+  },
+  "sessionAttributes": {},
+  "sessionId": "2020-07-27T17:55:36.717Z-WETHuGec",
+  "slotToElicit": null,
+  "slots": {
+    "Amount": "200",
+    "MilkProduct": "cheese",
+    "unit": " grams"
+  }
+}
