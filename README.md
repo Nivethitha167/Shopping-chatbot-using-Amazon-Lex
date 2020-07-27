@@ -1,4 +1,4 @@
-# Shopping-chatbot-using-Amazon-Lex
+# Shopping chatbot using Amazon Lex and Amazon Comprehend
 + This is a shopping chatbot created using Amazon Lex and Amazon Comprehend of AWS.
 
 ### Description 
