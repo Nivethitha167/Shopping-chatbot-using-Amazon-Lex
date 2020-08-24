@@ -1,0 +1,18 @@
+{
+  "alternativeIntents": [],
+  "botVersion": "$LATEST",
+  "dialogState": "Fulfilled",
+  "intentName": "HelloIntent",
+  "message": "Welcome Nivethitha",
+  "messageFormat": "PlainText",
+  "responseCard": null,
+  "sentimentResponse": {
+    "sentimentLabel": "NEUTRAL",
+    "sentimentScore": "{Positive: 0.0029479149,Negative: 5.4902054E-4,Neutral: 0.9965024,Mixed: 7.4452146E-7}"
+  },
+  "sessionAttributes": {},
+  "sessionId": "2020-08-24T08:33:55.736Z-qcrXaPdj",
+  "slotToElicit": null,
+  "slots": {
+    "Name": "Nivethitha"
+  }
