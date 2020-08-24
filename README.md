@@ -16,7 +16,7 @@
 #### Slots
 + The data that the user must provide to fulfill the intent
 
-#### Screenshot
+### Screenshot
 <img src="https://nivethitha167.000webhostapp.com/awsimage_new.JPG" width="1050">
 
 # DEMO
