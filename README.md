@@ -20,5 +20,5 @@
 <img src="https://nivethitha167.000webhostapp.com/awsimage_new.JPG" width="1050">
 
 ## DEMO
-[Live Demo of my project](https://nivethitha167.000webhostapp.com/Amazon%20Lex%20-%20Google%20Chrome%202020-09-03%2023-45-25.mp4)
+[##Small Demo of my project](https://nivethitha167.000webhostapp.com/Amazon%20Lex%20-%20Google%20Chrome%202020-09-03%2023-45-25.mp4)
 
