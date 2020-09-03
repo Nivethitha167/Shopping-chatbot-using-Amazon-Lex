@@ -10,11 +10,11 @@
 + Slots
 
 ### Intents
-+ A particular goal that the user wants to achieve
++ A particular goal that the user wants to achieve.
 ### Utterances
-+ Spoken or Typed phrases that invoke your intent
++ Spoken or Typed phrases that invoke your intent.
 ### Slots
-+ The data that the user must provide to fulfill the intent
++ The data that the user must provide to fulfill the intent.
 
 ## Screenshot
 <img src="https://nivethitha167.000webhostapp.com/awsimage_new.JPG" width="1050">
