@@ -4,6 +4,9 @@
 ## Description 
 + Amazon Lex is used to build voice and text Chatbots. This shopping chatbot, not only places the user's order but also performs the sentiment analysis of user input data which is positive, negative or neutral. After placing the order, it will show the summary of the user's order.
 
+## Demo
+![](Amazon-Lex.gif)
+
 ## Things to know to create a chatbot in Amazon Lex
 + Intents
 + Utterances
@@ -16,7 +19,5 @@
 ### Slots
 + The data that the user must provide to fulfill the intent.
 
-## Demo
-![](Amazon-Lex.gif)
 
 
